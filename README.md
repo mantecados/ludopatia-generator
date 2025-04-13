@@ -4,7 +4,7 @@
 
 ### How to use
 
-Just download the .exe file in the [releases]([url](https://github.com/mantecados/ludopatia-generator/releases/tag/v1.0.0)) page
+Just download the .exe file in the [releases](https://github.com/mantecados/ludopatia-generator/releases/tag/v1.0.0) page
 
 
 ### How does it work? 
