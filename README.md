@@ -1,4 +1,4 @@
-# LUDOPATIA GENERATOR
+# LUDOPATIA GENERATOR v1.0
 
 ![xqc-777](https://github.com/user-attachments/assets/28a097f1-07ae-418f-82d2-3d03d4f51d8a)
 
