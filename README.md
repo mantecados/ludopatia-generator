@@ -6,4 +6,4 @@ Press ENTER to roll a 6 face dice
 
 If it lands on the same number as the program has generated. You win
 
-If it doesn't land on the same number as the program has generated, You lose and have to keep playing (unless you press Q).
+If it doesn't, you lose and have to keep playing (unless you press Q).
