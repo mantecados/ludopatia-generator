@@ -1,5 +1,5 @@
 # LUDOPATIA GENERATOR v1.0
-These is the source code of one of my first programs written in C.
+This is the source code of one of my first programs written in C.
 
 ### Download
 
